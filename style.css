@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+#head {
+  align-items: center;
+  text-align: center;
+}
+#featured-property {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-size: 90%;
+  text-align: center;
+}
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 0.5em black;
+  background-color: aquamarine;
+}
+#featured-property p {
+  width: 800px;
+  margin-top: 1.2em;
+  margin-bottom: -0.75em;
+  margin-left:auto;
+  margin-right:auto;
+  line-height: 1.2em;
+  font-size: 12px;
+  font-family: Arial;
+}
+div {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  position: initial;
+  margin-top: 19px;
+  margin-bottom: 19px;  
+}
+
